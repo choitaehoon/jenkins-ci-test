@@ -11,6 +11,8 @@ public class TestCi {
     public void test() {
         assertThat(3, is(3));
         assertThat(4, is(4));
+
+        //commit status
     }
 
 }
